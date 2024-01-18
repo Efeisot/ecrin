@@ -6,7 +6,7 @@ I made this project as a dedication to the girl I loved like crazy but could not
 While doing this project, I used the NASA scheme that I created with the colors on NASA's archived color scheme page.
 
 
-## Necessary things for script:
+## Necessary things for config:
 - i3wm (You will definitely need this :D )
 - i3lock-color
 - alacritty
